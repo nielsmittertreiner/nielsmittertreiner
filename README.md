@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there, I'm Niels Mittertreiner - aka BSBob👋
+
+### I'm a Dutch student following Communication & Multimedia Design at the Amsterdam University of Applied Sciences
 
 <!--
 **nielsmittertreiner/nielsmittertreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
