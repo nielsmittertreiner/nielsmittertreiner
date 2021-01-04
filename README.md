@@ -5,6 +5,8 @@ I'm a Dutch student, following Communication and Multimedia Design and I have a 
 *You can always join my discord server to talk about my projects and ROM-hacking > [**BSBob's Hideout**](https://discord.com/invite/AwmUvuv)*
 
 ### My repositories and branches within:
+* [**PokemonVanadium**](https://github.com/nielsmittertreiner/PokemonVanadium)
+
 * [**pokeemerald**](https://github.com/nielsmittertreiner/pokeemerald/)
   * [**perma_confusion**](https://github.com/nielsmittertreiner/pokeemerald/tree/perma_confusion)
-  * [**vanadium**](https://github.com/nielsmittertreiner/pokeemerald/tree/vanadium)
+  * [**quality_of_life**](https://github.com/nielsmittertreiner/pokeemerald/tree/quality_of_life)
